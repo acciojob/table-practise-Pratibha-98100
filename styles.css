@@ -2,4 +2,5 @@
 .info{
 	background-color: yellow;
 	border-color: black;
+	border: 1px solid rgb(0, 0, 0)
 }
